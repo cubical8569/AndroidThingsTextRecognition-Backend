@@ -1,0 +1,4 @@
+/venv
+*.pyc
+*.sqlite3
+/mysite/mysite/settings.py  # contains secret key
